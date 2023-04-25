@@ -18,8 +18,10 @@ import React from "react";
 // console.log(typeOfSum('d', 1))
 // console.log(typeOfSum(null, 1))
 
+
 // const solution = (str: string): string => str.split('').reverse().join('')
 // console.log(solution('world'))
+
 
 const Kyu8 = () => (
     <div>8kyu</div>
