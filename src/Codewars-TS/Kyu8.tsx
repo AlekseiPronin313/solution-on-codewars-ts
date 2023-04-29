@@ -29,6 +29,12 @@ import React from "react";
 // console.log(arr2bin([null]))
 // console.log(arr2bin([true, true, false, 15]))
 
+
+// const mango = (quantity: number, price: number): number => (quantity - Math.floor(quantity / 3)) * price
+// console.log(mango(3, 3))
+// console.log(mango(5, 3))
+// console.log(mango(9, 5))
+
 const Kyu8 = () => (
     <div>8kyu</div>
 )
