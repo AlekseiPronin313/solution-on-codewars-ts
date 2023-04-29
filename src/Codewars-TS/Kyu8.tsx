@@ -35,6 +35,12 @@ import React from "react";
 // console.log(mango(5, 3))
 // console.log(mango(9, 5))
 
+
+// const remove = (s: string): string => s.replace(/!/g, '') + '!'
+// console.log(remove("Hi!"))
+// console.log(remove("!Hi"))
+// console.log(remove("Hi! Hi!"))
+
 const Kyu8 = () => (
     <div>8kyu</div>
 )
