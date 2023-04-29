@@ -23,6 +23,12 @@ import React from "react";
 // console.log(solution('world'))
 
 
+// const arr2bin = (arr: any[]): string => arr.filter(a => typeof a === 'number').reduce((a, b) => a + b, 0).toString(2)
+// console.log(arr2bin([1, 2]))
+// console.log(arr2bin([1, 2, 3, 4, 5]))
+// console.log(arr2bin([null]))
+// console.log(arr2bin([true, true, false, 15]))
+
 const Kyu8 = () => (
     <div>8kyu</div>
 )
