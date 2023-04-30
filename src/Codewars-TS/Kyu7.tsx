@@ -11,6 +11,9 @@ import React from "react";
 // console.log(removeFire('Fire Deck Engine Sail Deck Fire Fire Fire Rudder Fire Boat Fire Fire Captain'))
 
 
+// const sortMe = (names: string[]): string[] => names.sort()
+// console.log(sortMe(["one", "two", "three"]))
+
 const Kyu7 = () => (
     <div>7kyu</div>
 )
