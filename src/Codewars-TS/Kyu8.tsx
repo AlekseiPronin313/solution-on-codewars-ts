@@ -41,6 +41,10 @@ import React from "react";
 // console.log(remove("!Hi"))
 // console.log(remove("Hi! Hi!"))
 
+
+// const move = (pos: number, roll: number): number => pos + roll * 2
+// console.log(move(3, 6))
+
 const Kyu8 = () => (
     <div>8kyu</div>
 )
