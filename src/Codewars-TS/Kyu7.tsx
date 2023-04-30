@@ -14,6 +14,13 @@ import React from "react";
 // const sortMe = (names: string[]): string[] => names.sort()
 // console.log(sortMe(["one", "two", "three"]))
 
+
+// const countLettersAndDigits = (input: string): number => input.replace(/[^a-zA-Z0-9]/g, '').length
+// console.log(countLettersAndDigits("hel2!lo"))
+// console.log(countLettersAndDigits("n!!ice!!123"))
+// console.log(countLettersAndDigits("12345f%%%t5t&/6"))
+
+
 const Kyu7 = () => (
     <div>7kyu</div>
 )
